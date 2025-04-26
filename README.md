@@ -15,6 +15,8 @@ For running FashionGaN-im.ipynb we have to locate in this folder also a images f
     nn.Linear(128, 10)              # Fully connected: 128 -> 10 (10 classes for FashionMNIST)
 )
 ![Screenshot 2025-04-26 235501](https://github.com/user-attachments/assets/9442eaf4-7c35-4836-8913-0d9c11a12e83)
+![Screenshot 2025-04-26 235512](https://github.com/user-attachments/assets/c1658564-1748-4dcd-b9a7-09cec9ad8841)
+
 Confusion matrix and results;
  precision    recall  f1-score   support
 
