@@ -3,6 +3,7 @@
 ## 👥 Contribution Table
 | Name             |               Role |
 |----------------- |--------------------|
+
 | Sarith Chowdhury | Import Dependencies and Load Data, Preprocess and Visualize Dataset, Build Discriminator Network, Design Training Loop (Steps and Epochs),|
                    | Final Integration and Minor Fixes|
 
